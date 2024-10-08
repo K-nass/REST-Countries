@@ -1,0 +1,19 @@
+.home {
+    background-color: var(--VeryDarkBlueDarkModeBackground);
+    color: var(--VeryLightGrayLightModeBackground);
+    min-height: 100vh;
+}
+
+.inputCountry,
+.selectCountry {
+    background-color: var(--DarkBlueDarkModeElements);
+}
+
+.inputCountry::placeholder {
+    color: var(--VeryLightGrayLightModeBackground);
+    font-size: 12px;
+}
+
+.selectCountry {
+    color: var(--VeryLightGrayLightModeBackground);
+}

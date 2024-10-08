@@ -1,0 +1,22 @@
+.cardCountryContainer {
+    background-color: var(--VeryDarkBlueDarkModeBackground);
+    min-height: 100vh;
+    overflow-y: hidden;
+}
+
+.cardCountry {
+    background-color: var(--DarkBlueDarkModeElements);
+}
+
+.cardCountryInfo {
+    color: var(--VeryLightGrayLightModeBackground);
+}
+
+.countryInfoItem {
+    color: gray;
+}
+
+.imgContainer {
+    width: 400px;
+    height: 400px;
+}

@@ -1,0 +1,7 @@
+.header {
+    background-color: var(--DarkBlueDarkModeElements);
+    color: var(--VeryLightGrayLightModeBackground);
+}
+.header button{
+    color: var(--VeryLightGrayLightModeBackground);
+}

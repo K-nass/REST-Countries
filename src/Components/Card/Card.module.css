@@ -1,0 +1,11 @@
+.cardCountry {
+    background-color: var(--DarkBlueDarkModeElements);
+}
+
+.countryInfo {
+    font-size: 12px;
+}
+
+.countryInfoItem {
+    color: gray;
+}
